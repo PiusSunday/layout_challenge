@@ -2,4 +2,4 @@
 
 My code submission for the Angela Yu Layout Challenge
 
-![Layout Challenge](layout_challenge.png)
+![Layout Challenge](images/layout_challenge.png)
